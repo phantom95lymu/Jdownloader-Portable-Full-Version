@@ -249,3 +249,6 @@ This repository serves as the official landing page for JDownloader Portable. Th
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of JDownloader Portable today!**
+
+---
+**Last updated:** 2026-09-12 07:00:48 UTC
