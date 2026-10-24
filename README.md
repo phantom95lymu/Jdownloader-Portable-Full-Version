@@ -251,4 +251,4 @@ This repository serves as the official landing page for JDownloader Portable. Th
 **Get the most recent version of JDownloader Portable today!**
 
 ---
-**Last updated:** 2026-10-24 10:36:54 UTC
+**Last updated:** 2026-10-24 14:22:14 UTC
